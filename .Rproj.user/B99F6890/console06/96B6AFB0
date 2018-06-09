@@ -65,4 +65,137 @@ Total 19 (delta 0), reused 0 (delta 0)[0K
 [0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
 [0K[?25h[?25l
 [0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git A[0K[?25hD[0K[?25l$ git A[0K[?25h[?25l$ git[0K[8G[?25h[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git A[0K[?25hD[0K[?25l$ git A[0K[?25h[?25l$ git[0K[8G[?25h[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0Kwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/prop/47850B5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25lo[0K[8G[?25h[9G[?25l$ git com[0K[?25hm[0Ki[0Kn[0Kt[0K[15G[?25l$ git commint -[0K[?25hm[0K[18G[?25l$ git commint -m "[0K[?25hD[0Ka[0K[?25l$ git commint -m "D[0K[?25h[?25l$ git commint -m "[0K[?25hi[0Kn[0Ks[0Ke[0Kr[0Ki[0Kd[0Ko[0K[28G[?25l$ git commint -m "inserido r[0K[?25h[?25l$ git commint -m "inserido[0K[28G[?25h[?25l$ git commint -m "inserido a[0K[?25h[30G[?25l$ git commint -m "inserido a r[0K[?25he[0Kg[0K[34G[?25l$ git commint -m "inserido a reg m[0K[?25hu[0Kl[0Kt[0Ki[0Kp[0Kl[0Ka[0K"[0K[?25l
+[0K[?25hgit: 'commint' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        commit[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commint -m "inserido a reg multipla"[0K[?25h[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[24G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[?25l$ git commit -m "inserido a reg multipla"[0K[12G[?25h[?25l
+[0K[?25h[master 1366747] inserido a reg multipla[0K[?25l
+ 5 files changed, 89 insertions(+), 12 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "inserido a reg multipla"[0K[?25h[?25l$ git push[0K[?25h[?25l
+[0K[?25hCounting objects: 12, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (12/12), 2.34 KiB | 797.00 KiB/s, done.[0K
+Total 12 (delta 1), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (1/1), completed with 1 local object.[0K[?25l
+[0K[?25hTo https://github.com/caiogoncalves/serieTemporalAula1.git[0K[?25l
+   5c09a15..1366747  master -> master[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "inserido a reg multipla"[0K[?25h[?25l$ git push[0K[?25h[?25l$ git commint -m "inserido a reg multipla"[0K[?25h[?25l$ git add -A[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/prop/47850B5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25herror: open("~$refAnexoEstatistico.xlsx"): Permission denied[0K[?25l
+error: unable to index file ~$refAnexoEstatistico.xlsx[0K
+fatal: adding files failed[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "inserido a reg multipla"[0K[?25h[41G[?25l$ git commit -m "inserido a reg multipl"[0K[40G[?25h[?25l$ git commit -m "inserido a reg multip"[0K[39G[?25h[?25l$ git commit -m "inserido a reg multi"[0K[38G[?25h[?25l$ git commit -m "inserido a reg mult"[0K[37G[?25h[?25l$ git commit -m "inserido a reg mul"[0K[36G[?25h[?25l$ git commit -m "inserido a reg mu"[0K[35G[?25h[?25l$ git commit -m "inserido a reg "[0K[33G[?25h[?25l$ git commit -m "inserido a re"[0K[31G[?25h[?25l$ git commit -m "inserido a r"[0K[30G[?25h[?25l$ git commit -m "inserido a "[0K[29G[?25h[?25l$ git commit -m "inserido a"[0K[28G[?25h[?25l$ git commit -m "inserido"[0K[26G[?25h[?25l$ git commit -m "inserid"[0K[25G[?25h[?25l$ git commit -m "inseri"[0K[24G[?25h[?25l$ git commit -m "inserid"[0K[25G[?25h[?25l$ git commit -m "inserido"[0K[26G[?25h[?25l$ git commit -m "inserido "[0K[27G[?25h[?25l$ git commit -m "inserido o"[0K[28G[?25h[?25l$ git commit -m "inserido o "[0K[29G[?25h[?25l$ git commit -m "inserido o e"[0K[30G[?25h[?25l$ git commit -m "inserido o ex"[0K[31G[?25h[?25l$ git commit -m "inserido o exe"[0K[32G[?25h[?25l$ git commit -m "inserido o exer"[0K[33G[?25h[?25l$ git commit -m "inserido o exerc"[0K[34G[?25h[?25l$ git commit -m "inserido o exerci"[0K[35G[?25h[?25l$ git commit -m "inserido o exercic"[0K[36G[?25h[?25l$ git commit -m "inserido o exercici"[0K[37G[?25h[?25l$ git commit -m "inserido o exercicio"[0K[38G[?25h[?25l$ git commit -m "inserido o exercicio "[0K[39G[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[40G[?25h[41G[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/console06/96B6AFB0[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/prop/47850B5[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents[0m[0K
+[0K
+Untracked files:[0K
+        [0;31mbp.csv[0m[0K
+        [0;31mbp2.csv[0m[0K
+        [0;31mbpc.csv[0m[0K
+        [0;31mbpd.csv[0m[0K
+        [0;31mrefAnexoEstatistico.xlsx[0m[0K
+        [0;31m~$refAnexoEstatistico.xlsx[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/console06/96B6AFB0[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/prop/47850B5[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents[0m[0K
+        [0;31mmodified:   Aula1.R[0m[0K
+[0K
+Untracked files:[0K
+        [0;31mbp.csv[0m[0K
+        [0;31mbp2.csv[0m[0K
+        [0;31mbpc.csv[0m[0K
+        [0;31mbpd.csv[0m[0K
+        [0;31mrefAnexoEstatistico.xlsx[0m[0K
+        [0;31m~$refAnexoEstatistico.xlsx[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[3G[?25h[41G[?25l$ git add -A[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/prop/47850B5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25herror: open("~$refAnexoEstatistico.xlsx"): Permission denied[0K[?25l
+error: unable to index file ~$refAnexoEstatistico.xlsx[0K
+fatal: adding files failed[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[?25h[?25l
+[0K[?25h[?25lOn branch master[0K[1G[?25h[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/console06/96B6AFB0[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/prop/47850B5[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369[0m[0K
+        [0;31mmodified:   .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents[0m[0K
+        [0;31mmodified:   Aula1.R[0m[0K
+[0K
+Untracked files:[0K
+        [0;31mbp.csv[0m[0K
+        [0;31mbp2.csv[0m[0K
+        [0;31mbpc.csv[0m[0K
+        [0;31mbpd.csv[0m[0K
+        [0;31mrefAnexoEstatistico.xlsx[0m[0K
+        [0;31m~$refAnexoEstatistico.xlsx[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[?25h[?25l$ git add -A[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/prop/47850B5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B99F6890/sources/s-B8DFBE00/890FD369-contents.[0K
+The file will have its original line endings in your working directory.[0K
+error: open("~$refAnexoEstatistico.xlsx"): Permission denied[0K
+error: unable to index file ~$refAnexoEstatistico.xlsx[0K
+fatal: adding files failed[0K
+[0K[?25h[?25l
+[0;32mCaio Andrade@JOTA-009 [0;35m [0;33m~/Documents/MBA/SeriesTemp/Aula1[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git commit -m "inserido o exercicio 1"[0K[?25h[?25l$ git add -A[0K[?25h
